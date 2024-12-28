@@ -44,7 +44,6 @@
 <a href="https://www.buymeacoffee.com/cycosad" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
 <h3>My GitHub contributions summary</h3>
-[Ravi Soda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi-soda&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ravi-soda&theme=dark)](https://git.io/streak-stats)
 
